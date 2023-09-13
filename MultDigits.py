@@ -1,3 +1,7 @@
+# Challenge I
+# Increment through the natural numbers. Multiply the digits of the number together, and repeat until you only have 1 digit.
+# Print the number with the largest number of iterations before it reaches 1 digit.
+
 def MultDigits(number,steps):
     digitProduct = 1
     numArray = [int(x) for x in str(number)]
