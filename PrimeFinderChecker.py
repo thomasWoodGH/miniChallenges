@@ -1,3 +1,8 @@
+# Challenge II
+# Create two tools that work with prime numbers:
+# 1 - Increments through the natural numbers and prints any primes found.
+# 2 - Checks user input to see whether or not it is a prime. Prints true/false.
+
 import math
 
 def IsPrime(num):
